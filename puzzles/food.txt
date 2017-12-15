@@ -1,0 +1,21 @@
+Food
+Pasta
+French Fries
+Ice Cream
+Bread
+Fried Rice
+Pancakes
+Burger
+Pizza
+Banana
+Apple Pie
+Cheese
+Tacos
+Salad 
+Steak
+Potato
+Hot dog
+Chicken
+Ribs
+Bacon
+Sausage

@@ -1,0 +1,21 @@
+US Cities
+New York City 
+Chicago
+San Francisco
+Boston
+Los Angeles
+New Orleans
+San Diego
+Las Vegas
+Seattle
+Miami
+Philadelphia
+Austin
+Orlanda
+Nashville
+Portland
+Atlanta
+Houston
+Denver
+San Antonio
+Dallas
